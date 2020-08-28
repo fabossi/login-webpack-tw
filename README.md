@@ -1,6 +1,4 @@
-# Angular 9 + Tailwind CSS banking app
-
-This is app for the Duomly Angular 9 Course - Learn Angular 9 by building banking App
+# Angular 9 + Tailwind CSS 
 
 ## Install
 
